@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vk>
+	<bot version='1.1'>
+		<token></token>
+		<apiv>5.73</apiv>
+	</bot>
+	<settings>
+		<maxm>300</maxm>
+	</settings>
+	<messages>
+		<newuser>Приветствуем нового пользователя, %s</newuser>
+		<noroot>Недостаточно прав, для пользователя, %s</noroot>
+	</messages>
+	<longpoll>
+		<ts>0</ts>
+		<pts>0</pts>
+	</longpoll>
+</vk>
